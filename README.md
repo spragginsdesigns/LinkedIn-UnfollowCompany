@@ -1,7 +1,5 @@
 # LinkedIn Unfollow After Applying
 
-![GitHub License](https://img.shields.io/github/license/spragginsdesigns/LinkedIn-UnfollowCompany)
-
 ## Description
 
 This userscript automatically unchecks the "Follow this company" checkbox after applying for a job on LinkedIn. It's a convenient script for LinkedIn users who want to prevent following companies unintentionally when applying for jobs.
