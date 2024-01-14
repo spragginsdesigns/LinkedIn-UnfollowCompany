@@ -1,6 +1,6 @@
 # LinkedIn Unfollow After Applying
 
-![GitHub License](https://img.shields.io/github/license/your-username/linkedin-unfollow-after-applying)
+![GitHub License](https://img.shields.io/github/license/spragginsdesigns/LinkedIn-UnfollowCompany)
 
 ## Description
 
