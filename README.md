@@ -49,7 +49,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Austin Spraggins](https://github.com/your-username)
+- [Austin Spraggins](https://github.com/spragginsdesigns)
 
 ## Acknowledgments
 
